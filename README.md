@@ -1,5 +1,7 @@
-Ember TodoMVC tutorial persisted via a REST API
+Ember TodoMVC with Node
 ==========================
+
+The Ember TodoMVC tutorial persisted via a REST API.
 
 ## Components
 
@@ -28,4 +30,4 @@ Run node server
 ```
 $ node app
 ```
-In your browser go to [http://localhost:3000](http://localhost:8080)
+In your browser go to [http://localhost:8080](http://localhost:8080)
